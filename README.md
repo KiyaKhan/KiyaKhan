@@ -4,7 +4,7 @@
   <img src="https://laravel.com/img/logomark.min.svg" width="30px" height="30px" style="margin:10px" alt="Laravel">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30px" height="30px"  style="margin:10px">
   <img src="https://nodejs.org/static/images/favicons/favicon.png" width="30px" height="30px"  style="margin:10px">
-   
+  <img src="https://static-production.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png" width="30px" height="30px"  style="margin:10px">
 </p>
 <hr>
 <picture>
