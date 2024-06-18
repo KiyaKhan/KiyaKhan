@@ -1,7 +1,14 @@
-## Hi there 👋
-<p align="center">
-  <img src="https://laravel.com/img/logomark.min.svg">
+##  👋 Hi there, I'm  <span style="color: #01C347;">Josh▐</span>
+<b><span style="color: #01C347;">▐ </span> WEB</b>
+
+<p >
+  <img src="https://laravel.com/img/logomark.min.svg" width="30px" height="30px" style="margin:10px" alt="Laravel">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30px" height="30px"  style="margin:10px">
+  <img src="https://nodejs.org/static/images/favicons/favicon.png" width="30px" height="30px"  style="margin:10px">
+  <img src="https://nodejs.org/static/images/favicons/favicon.png" width="30px" height="30px"  style="margin:10px">
+   
 </p>
+<hr>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
