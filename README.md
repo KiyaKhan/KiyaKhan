@@ -1,10 +1,5 @@
 ## Hi there 👋
-![Build Status]("https://laravel.com/img/logomark.min.svg")
-![License](https://img.shields.io/github/license/yourusername/yourrepo)
-
-<picture>
-  <source srcset="https://laravel.com/img/logomark.min.svg"/>
-</picture>
+[![Laravel](https://img.shields.io/badge/Laravel-8.x-red)](https://laravel.com)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -19,4 +14,5 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 
