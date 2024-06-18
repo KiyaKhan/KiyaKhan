@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![Laravel](https://img.shields.io/badge/Laravel-8.x-red)](https://laravel.com)
+<p align="center">
+  <img src="https://laravel.com/img/logomark.min.svg">
+</p>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
