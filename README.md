@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
-  <source srcset="https://laravel.com/img/logomark.min.svg"
+  <source srcset="https://laravel.com/img/logomark.min.svg"/>
 </picture>
 <picture>
   <source
