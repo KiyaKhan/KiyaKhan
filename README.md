@@ -5,21 +5,21 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30px" height="30px" style="margin:10px" alt="JavaScript">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="30px" height="30px" style="margin:10px" alt="HTML">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30px" height="30px" style="margin:10px" alt="CSS">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="30px" height="30px"  style="margin:10px">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="30px" height="30px"  style="margin:10px">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="30px" height="30px"  style="margin:10px" alt="Bootstrap">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="30px" height="30px"  style="margin:10px" alt="PHP">
   <img src="https://laravel.com/img/logomark.min.svg" width="30px" height="30px" style="margin:10px" alt="Laravel">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40px" height="40px"  style="margin:10px">
-  <img src="https://nodejs.org/static/images/favicons/favicon.png" width="30px" height="30px"  style="margin:10px">
-  <img src="https://static-production.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png" width="30px" height="30px"  style="margin:10px">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40px" height="40px"  style="margin:10px" alt="Angular">
+  <img src="https://nodejs.org/static/images/favicons/favicon.png" width="30px" height="30px"  style="margin:10px" alt="Nodejs">
+  <img src="https://static-production.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png" width="30px" height="30px"  style="margin:10px" alt="NPM">
 </p>
 <p>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="30px" height="30px"  style="margin:10px">
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="30px" height="30px"  style="margin:10px">
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="30px" height="30px"  style="margin:10px">
-  <img src="https://cdn-icons-png.flaticon.com/128/11378/11378763.png" width="30px" height="30px"  style="margin:10px">
-  <img src="https://cdn-icons-png.flaticon.com/512/15484/15484291.png" width="30px" height="30px"  style="margin:10px">
-  <img src="https://neo4j.com/favicon.ico" width="30px" height="30px"  style="margin:10px">
-  <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" width="30px" height="30px"  style="margin:10px">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="30px" height="30px"  style="margin:10px" alt="Java">
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="30px" height="30px"  style="margin:10px" alt="C++">
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="30px" height="30px"  style="margin:10px" alt="C#">
+  <img src="https://cdn-icons-png.flaticon.com/128/11378/11378763.png" width="30px" height="30px"  style="margin:10px" alt="Android">
+  <img src="https://cdn-icons-png.flaticon.com/512/15484/15484291.png" width="30px" height="30px"  style="margin:10px" alt="MySql">
+  <img src="https://neo4j.com/favicon.ico" width="30px" height="30px"  style="margin:10px" alt="Neo4J">
+  <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" width="30px" height="30px"  style="margin:10px" alt="Git">
 </p>
 <hr>
 <picture>
