@@ -1,5 +1,4 @@
-##  👋 Hi there, I'm  Josh▐
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=10DD76&random=false&width=435&lines=%F0%9F%91%8B+Hi+There%2C+I'm+Josh+!)](https://git.io/typing-svg)
 <p >
   <img src="https://www.typescriptlang.org/icons/icon-144x144.png" width="30px" height="30px" style="margin:10px" alt="TypeScript">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30px" height="30px" style="margin:10px" alt="JavaScript">
@@ -18,6 +17,7 @@
   <img src="https://cdn-icons-png.flaticon.com/128/11378/11378763.png" width="30px" height="30px"  style="margin:10px">
   <img src="https://cdn-icons-png.flaticon.com/512/15484/15484291.png" width="30px" height="30px"  style="margin:10px">
   <img src="https://neo4j.com/favicon.ico" width="30px" height="30px"  style="margin:10px">
+  <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" width="30px" height="30px"  style="margin:10px">
 </p>
 <hr>
 <picture>
