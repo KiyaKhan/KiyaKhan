@@ -20,6 +20,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/15484/15484291.png" width="30px" height="30px"  style="margin:10px" alt="MySql">
   <img src="https://neo4j.com/favicon.ico" width="30px" height="30px"  style="margin:10px" alt="Neo4J">
   <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" width="30px" height="30px"  style="margin:10px" alt="Git">
+  <img src="https://www.chartjs.org/docs/latest/favicon.ico" width="30px" height="30px"  style="margin:10px" alt="ChartJs">
+  <img src="https://apexcharts.com/wp-content/themes/apexcharts/img/apexcharts-logo-white-trimmed.svg" width="30px" height="30px"  style="margin:10px" alt="ApexCharts.js">
 </p>
 <hr>
 <picture>
