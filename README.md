@@ -1,4 +1,4 @@
-git remote add origin https://github.com/yourusername/project-name.git##  👋 Hi there, I'm  <span style="color:blue">Josh▐</span>
+##  👋 Hi there, I'm  <span style="color:blue">Josh▐</span>
 
 <p >
   <img src="https://laravel.com/img/logomark.min.svg" width="30px" height="30px" style="margin:10px" alt="Laravel">
