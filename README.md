@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Build Status](https://img.shields.io/github/workflow/status/yourusername/yourrepo/CI)
+![Build Status]("https://laravel.com/img/logomark.min.svg")
 ![License](https://img.shields.io/github/license/yourusername/yourrepo)
 
 <picture>
