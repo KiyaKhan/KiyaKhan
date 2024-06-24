@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=3000&color=10DD76&random=false&width=435&lines=%F0%9F%91%8B+Hi+There%2C+I'm+Josh+!)](https://git.io/typing-svg)
 <h1>Technical Proficiency</h1>
 <p >
-  <img src="https://www.typescriptlang.org/icons/icon-144x144.png" width="30px" height="30px" style="margin:10px" alt="TypeScript">
+ [<img src="https://www.typescriptlang.org/icons/icon-144x144.png" width="30px" height="30px" style="margin:10px" alt="TypeScript">](https://www.typescriptlang.org/)
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30px" height="30px" style="margin:10px" alt="JavaScript">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="30px" height="30px" style="margin:10px" alt="HTML">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30px" height="30px" style="margin:10px" alt="CSS">
