@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=3000&color=10DD76&random=false&width=435&lines=%F0%9F%91%8B+Hi+There%2C+I'm+Josh+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10B981&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Josh!;%F0%9F%92%BB+Software+Developer;%E2%9A%99%EF%B8%8F+Love+building+cool+stuff+;%F0%9F%8C%B1+Always+learning+%26+growing;%F0%9F%9B%A0%EF%B8%8F+Open+to+collabs+%26+projects;%F0%9F%93%AB+Let's+connect+%26+code!)](https://git.io/typing-svg)
 <p >
   <img src="https://www.typescriptlang.org/icons/icon-144x144.png" width="30px" height="30px" style="margin:10px" alt="TypeScript">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30px" height="30px" style="margin:10px" alt="JavaScript">
