@@ -10,6 +10,8 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40px" height="40px"  style="margin:10px" alt="Angular">
   <img src="https://nodejs.org/static/images/favicons/favicon.png" width="30px" height="30px"  style="margin:10px" alt="Nodejs">
   <img src="https://static-production.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png" width="30px" height="30px"  style="margin:10px" alt="NPM">
+   <img src="https://react.dev/favicon-32x32.png" width="32px" height="32px"  style="margin:10px" alt="React">
+
 </p>
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="30px" height="30px"  style="margin:10px" alt="Java">
